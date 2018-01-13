@@ -6,7 +6,7 @@
 	<groupId>org.xujin.talos</groupId>
 	<artifactId>talos</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>pom</packaging>
+    <packaging>pom</packaging>
 
 	<name>talos</name>
 	<description>Talos-Gateway </description>
